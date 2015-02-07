@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.UUID;
 
 /**
- * @author Justin
+ * @author justcool393
  * @since 1/30/2015 4:55 PM
  */
 public class Profile {
